@@ -40,13 +40,16 @@ Pela extensão Go live do vscode ou pelo prorio navegador de internet, use a tec
 ---
 
 ## 🔁 Gestão de Mudanças
-### Funcionalidade Adicionada: Tela de cadastro de novo usuário
+### Funcionalidade Adicionada: manter o usuário logado
 ### 📝 Justificativa:
-Durante o desenvolvimento, foi identificado que o sistema se tornaria mais realista e completo com a inclusão de um cadastro de novos usuários. Isso permite ampliar o escopo inicial e tornar o sistema mais próximo de aplicações reais.
+Durante os testes do sistema, foi identificado que seria interessante manter o usuário logado mesmo após atualizar ou fechar a aba.
+Isso tornaria a experiência mais fluida, especialmente em sistemas de login simples.
+Por isso, foi adicionada a funcionalidade de persistência de login no navegador via localStorage, mantendo o escopo original, porém aumentando a utilidade prática do sistema.
+
 
 ### 🔄 Ações Tomadas:
 Um novo formulário foi planejado e movido para a coluna "A Fazer" no GitHub Projects.
-A estrutura de código foi adaptada para incluir register.html e nova lógica de validação no script.js.
+A estrutura de código foi adaptada para incluir essa função e a nova lógica de validação no script.js.
 O README foi atualizado para refletir essa mudança no escopo.
 
 ---
