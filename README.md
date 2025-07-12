@@ -54,7 +54,7 @@ O README foi atualizado para refletir essa mudança no escopo.
 
 ---
 ## 🧪 Qualidade e Testes
-Em desenvolvimento: integração com GitHub Actions para executar testes automatizados de validação de login.
+integração com GitHub Actions para executar testes automatizados de validação de login.
 
 ---
 ## 🛠️ Tecnologias Utilizadas
