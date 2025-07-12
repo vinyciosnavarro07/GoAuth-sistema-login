@@ -1,7 +1,7 @@
 # 🔐 GoAuth - Sistema de Login Ágil
 
 ## 📌 Objetivo do Projeto
-O GoAuth é um sistema simples de login desenvolvido para simular práticas de Engenharia de Software utilizando metodologias ágeis. Criado como parte de um estudo acadêmico, seu propósito é validar o acesso de usuários de forma segura e prática, com foco em organização de código e uso de ferramentas de versionamento e integração contínua.
+O GoAuth é um sistema simples de login desenvolvido para simular práticas de Engenharia de Software utilizando metodologias ágeis. Criado como parte de um estudo acadêmico, seu propósito é ser uma tela simples de login com validação de usuario e senha, com foco em organização de código e uso de ferramentas de versionamento e integração contínua.
 
 ---
 
